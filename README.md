@@ -15,32 +15,11 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const ayush = {
-    name: "Ayush Kumar",
-    education: "Newton School of Technology",
-    interests: [
-        "Backend Development",
-        "Full Stack Development",
-        "Data Structures & Algorithms",
-        "Quantitative Research"
-    ],
-    currentlyLearning: [
-        "Node.js",
-        "Express.js",
-        "PostgreSQL",
-        "MongoDB"
-    ],
-    research: "WorldQuant BRAIN",
-    goal: "Building useful things through code"
-};
-```
-
 - 🎓 Student at Newton School of Technology.
-- 💻 Interested in building scalable backend systems.
-- 🚀 Working on real-world development projects.
-- 🧠 Practicing Data Structures and Algorithms.
-- 📈 Exploring quantitative research through WorldQuant BRAIN.
+- 💻 Interested in Backend & Full Stack Development.
+- 🚀 Building real-world projects with React and Node.js.
+- 🧠 Practicing Data Structures & Algorithms.
+- 📈 Exploring Quantitative Research with WorldQuant BRAIN.
 - ⚡ Always learning, building and improving.
 
 ---
@@ -70,7 +49,7 @@ const ayush = {
 <div align="center">
 
 <a href="https://github.com/ayushkumar8434/CAP_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkumar8434&repo=CAP_project&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushkumar8434&repo=CAP_project&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -79,9 +58,13 @@ const ayush = {
 
 A second-hand smartphone marketplace designed to make quality smartphones more affordable and accessible.
 
+- 🛒 Buy and sell second-hand smartphones.
+- 📱 Explore different brands and models.
+- ⭐ Focus on affordability and reliability.
+
 **Tech Stack:** React · Node.js · Express.js · PostgreSQL
 
-🔗 [Explore Pocket Phone Repository](https://github.com/ayushkumar8434/CAP_project)
+🔗 [View Pocket Phone Repository](https://github.com/ayushkumar8434/CAP_project)
 
 ---
 
@@ -116,11 +99,11 @@ A second-hand smartphone marketplace designed to make quality smartphones more a
 <div align="center">
 
 <a href="https://github.com/ayushkumar8434">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/ayush-kumar-b7433037a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
